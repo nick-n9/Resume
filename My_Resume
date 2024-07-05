@@ -1,62 +1,63 @@
                                                          Nikhil Nimavat
                                   LinkedIn | nics.nimavat@gmail.com |  7228833221 | GitHub 
-Skills____________________________________________________________________________________________
-•   JavaScript |  React | C / AVR Studio | OOP  |  C++ | Data Structures |  SQL | HTML | CSS/Bootstrap | Python |  Java  | Git | firebase | vs code 
-•   Frontend | Backend | Full-Stack | English, Hindi, Gujarati– All professional proficiency or above.
+Skills_______________________________________________________________________________
+• Programing languages: C# ASP.NET Core, Javascript, C/C++, HTML, Css/Bootstrap/Tailwind, Python
+• Frameworks: ReactJs, jquery, Flask, ASP.NET, Node.Js
+• Database: SQL server, AppWrite DB, MongoDB, Firebase
+• Version Control Tools: Git, GitHub, AWS CodeCommit
+• Other: Docker, Postman,Cloud Computing, Data Structures, OOP | English, Hindi, Gujarati– All professional proficiency or above
+• Interested Position: Frontend, Backend, Full-Stack
 
-Experience / Work _____________________________________________________________________________________
+Projects _____________________________________________________________________________
 
-Robotics Lab Intern                        Research and Development in Robotics               04/2023 
+Restaurant Menu (Back End): 
+• Developed a RESTful API: Constructed an API using ASP.NET Core and MVC for storing command-line snippets and their descriptions,
+leveraging Entity Framework Core ORM (DbContext), migrations, and DTOs for data access.
+• Design Patterns and Testing: Implemented Repository and Dependency Injection patterns for encapsulated data access,
+and ensured system robustness through thorough testing of CRUD endpoints using Postman.
+• Tech Stack : ASP.NET Core, MVC, RESTful APIs (05/2024).
 
-•  With Firebird-V created a bot system for emergency alert that can be used in disaster and extreme situation in for small communities such  
-    As  a university, residential area, stadiums to navigate people out from the affected area.
-•  Optimized the motion-control  and velocity system by refining the base code using C / AVR C Programming in AVR Studio resulting in
-    30%  better performance.
-•  Designed and implemented the whole system using tools such as atmel studio and proteus and successfully completed a trial in the
-    university itself. 
+Social Media CalGram(Front End Project): 
+• Build a modern social app with a stunning UI, native mobile feel, special tech stack, infinite scroll feature, and amazing performance.
+showcasing strategic thinking and programming acumen. Authentication system and quick data fetching using React Query.
+• The platform features a Trending page and an Explore page for content discovery, post interaction capabilities such as liking and saving,
+support for all file extensions in post creation, and a personalized Profile page. All these are wrapped in a mobile-responsive design for
+a native app-like experience.
+• Tech Stack : React Js, Appwrite, TypeScript, Shadcn (06/2023)
 
+Developer 3-D Portfolio: 
+• The platform is designed with a customizable 3D desktop model that enhances personalization and user interaction. It employs sophisticated
+animations powered by Framer Motion, contributing to an engaging and interactive user experience.
+• The platform also exhibits proficiency in 3D geometries, effectively showcasing skills using three.js and React Three fiber integrates a 3D
+earth model in the contact section, equipped with email functionality.
+• Tech Stack : React Js, Three.js, React Three Fiber, Email Js, Vite, Tailwind CSS, TypeScript, Shadcn (01/2024)
 
-Software Development                      Hackathon (Public Library)                          09/2023
+Education ____________________________________________________________________________
 
-•   Led a team of 4: organized meetings, delegated tasks and helped teammates debug etc. resulting in our selection among the top 5 and 
-     ultimately winning the ‘Most Innovative Thinkers’ award. 
-•   Implemented the entire login system to allow CRUD operations on the user list (JavaScript, FireBase, HTML, CSS).
-•   Designed the overall website concept/layout, implemented responsive home & Book pages in React.
-•   Implemented a ChatBot in the website using the chat gpt API to navigate users easily through the website which is 50 times faster.
+Bachelor of Technology. GPA: 3.4 / 4.0                   Atmiya University Gujarat, India            08/2021 - 01/2025
+Major in Computer Engineering. Currently in 7th semester. Current CGPA : 8.52 
 
+Experience / Work ______________________________________________________________________
 
-Summer Social Internship                      NGO                                            05/2023
+Software Development Hackathon                                                                       09/2023
+• As a leader of a 4-member team, Organized meetings, delegated tasks, and assisted teammates in debugging. Our effective teamwork
+resulted in our selection among the top 5 teams.
+• Create a high-performance social app with an elegant UI, native mobile experience, unique tech stack, and infinite scroll. Highlight strategic
+thinking and programming skills, including React Query for authentication and efficient data retrieval.
+• By designing the website and implementing responsive pages using React, Enhanced the user experience. Develop a deep-learning model for
+back-end purposes to filter out images that are not compliant with social media policies regarding safety and appropriateness.
 
-•   In this internship I learned about my social responsibilities toward society done some charity works as planting trees, taking
-     Awareness classes, spreading smiles through our work.
-•   Learned some soft skills such as communication through communicating to large groups of individuals, Time and Workload management
-     Intercultural sensitivity, personal responsibility and initiative, Leadership, Teamwork, Adaptability, EI, Empathy etc.
+Summer Social Internship NGO                                                                          05/2023 - 07/2023(WeekEnds only)
+• In this internship I accomplished a 45%-50% increase in community engagement by spearheading tree planting campaigns and conducting
+awareness classes, resulting in a more environmentally conscious community.
+• Working in diverse teams fostered my intercultural sensitivity and taught me the importance of personal responsibility, initiative and honed
+my leadership skills, learned the value of teamwork, and became more adaptable to changing circumstances.
+• Achieved improvement in productivity by enhancing communication skills and effectively managing time and workload, Resulting in more
+efficient performance. 
 
-Education ________________________________________________________________________________________
- 
-Atmiya University             Bachelor of Technology. GPA: 3.36                      08/2021 - 01/2025
+Other Projects __________________________________________________________________________
 
-•   Major in Computer Engineering. Currently in 5th semester.
+• Other Mini/Group Project: Wardrobe Assistant Web-Application with integration chat-gpt api with 3D Models, social media inappropriate
+image filtration based on Deep learning model(Hackathon project ), Game development using C / C++.
 
-Projects __________________________________________________________________________________________
-
-  Movie.io Search API (Front End): Git
-•   Created a website using the OMDB API that can search through over 133,000 movies.
-•   Designed some of the new edge animation for websites outlook and made it mobile responsive as well. 
-•   Used : React.JS, Hooks(State/Effect), JSX, CSS modules. (10/2022) 
-
-  Public LIbrary website (Full Stack):
-•   Created a Public Library website that provides information about all books and their PDFs, also providing the information on local public library 
-     books availability of physical copies of the book.
-•   To engage local communities for the same interest book people make groups of social sites and provide links to those groups.
-•   Implemented the entire login system to allow CRUD operations on the user list (JavaScript, FireBase, HTML, CSS).
-•   Used : React.JS, Firebase, HTML, CSS(09/2023) 
-     
-  Tic-Tac-Toe Game with C (Game Development): Git
-•   Designed and developed an  Tic-Tac-Toe with C where a player with 3 Os or 3 Xs aligned on a 3x3 board will win the game. (09/2021)
-•   Learned core concepts and working of C, compiler mechanism and making and using of C libraries.  
-
-Others ___________________________________________________________________________________________
-•   Interests: Interested in learning AI, ML, Web development, Data science, Data analyst, Game Development, cloud technologies.
-•   State level volleyball player, Finance/Marketing Books/Blogs, Podcasts, Reading philosophy and Law.
-
+• Interests: volleyball (State level player), Finance/Marketing Books/Blogs, Podcasts, Reading philosophy and Law.
