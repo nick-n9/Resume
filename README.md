@@ -1,1 +1,1 @@
-Click GREEN BUTTON "CODE <>" to DOWNLOAD a zip file.
+Click GREEN BUTTON "<> CODE" to DOWNLOAD a zip file.
