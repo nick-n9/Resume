@@ -10,13 +10,6 @@ Skills__________________________________________________________________________
 
 Projects _____________________________________________________________________________
 
-Restaurant Menu (Back End): 
-• Developed a RESTful API: Constructed an API using ASP.NET Core and MVC for storing command-line snippets and their descriptions,
-leveraging Entity Framework Core ORM (DbContext), migrations, and DTOs for data access.
-• Design Patterns and Testing: Implemented Repository and Dependency Injection patterns for encapsulated data access,
-and ensured system robustness through thorough testing of CRUD endpoints using Postman.
-• Tech Stack : ASP.NET Core, MVC, RESTful APIs (05/2024).
-
 Social Media CalGram(Front End Project): 
 • Build a modern social app with a stunning UI, native mobile feel, special tech stack, infinite scroll feature, and amazing performance.
 showcasing strategic thinking and programming acumen. Authentication system and quick data fetching using React Query.
@@ -31,6 +24,13 @@ animations powered by Framer Motion, contributing to an engaging and interactive
 • The platform also exhibits proficiency in 3D geometries, effectively showcasing skills using three.js and React Three fiber integrates a 3D
 earth model in the contact section, equipped with email functionality.
 • Tech Stack : React Js, Three.js, React Three Fiber, Email Js, Vite, Tailwind CSS, TypeScript, Shadcn (01/2024)
+
+Restaurant Menu (Back End): 
+• Developed a RESTful API: Constructed an API using ASP.NET Core and MVC for storing command-line snippets and their descriptions,
+leveraging Entity Framework Core ORM (DbContext), migrations, and DTOs for data access.
+• Design Patterns and Testing: Implemented Repository and Dependency Injection patterns for encapsulated data access,
+and ensured system robustness through thorough testing of CRUD endpoints using Postman.
+• Tech Stack : ASP.NET Core, MVC, RESTful APIs (05/2024).
 
 Education ____________________________________________________________________________
 
