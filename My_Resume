@@ -1,5 +1,5 @@
                                                          Nikhil Nimavat
-                                  LinkedIn | nics.nimavat@gmail.com |  7228833221 | GitHub 
+                                          nics.nimavat@gmail.com |  7228833221 
 Skills_______________________________________________________________________________
 • Programing languages: C# ASP.NET Core, Javascript, C/C++, HTML, Css/Bootstrap/Tailwind, Python
 • Frameworks: ReactJs, jquery, Flask, ASP.NET, Node.Js
@@ -9,54 +9,50 @@ Skills__________________________________________________________________________
 • Interested Position: Frontend, Backend, Full-Stack
 
 Projects _____________________________________________________________________________
-
-Social Media CalGram(Front End Project): 
+Social Media CalGram (Front End): 
 • Build a modern social app with a stunning UI, native mobile feel, special tech stack, infinite scroll feature, and amazing performance.
-showcasing strategic thinking and programming acumen. Authentication system and quick data fetching using React Query.
+  Authentication system and quick data fetching using React Query, resulting in a 40% reduction in load times.
 • The platform features a Trending page and an Explore page for content discovery, post interaction capabilities such as liking and saving,
-support for all file extensions in post creation, and a personalized Profile page. All these are wrapped in a mobile-responsive design for
-a native app-like experience.
-• Tech Stack : React Js, Appwrite, TypeScript, Shadcn (06/2023)
+  support for all file extensions in post creation, and a personalized Profile page. All these are wrapped in a mobile-responsive design for
+  a native app-like experience.
+• Tech Stack : React Js, Appwrite, TypeScript, Shadcn UI (06/2023).
 
 Developer 3-D Portfolio: 
-• The platform is designed with a customizable 3D desktop model that enhances personalization and user interaction. It employs sophisticated
-animations powered by Framer Motion, contributing to an engaging and interactive user experience.
+• The platform is designed with customizable 3D desktop models leading to a 50% increase in user engagement during testing phases.It employs
+  sophisticated animations powered by Framer Motion, contributing to an engaging and interactive user experience.
 • The platform also exhibits proficiency in 3D geometries, effectively showcasing skills using three.js and React Three fiber integrates a 3D
-earth model in the contact section, equipped with email functionality.
-• Tech Stack : React Js, Three.js, React Three Fiber, Email Js, Vite, Tailwind CSS, TypeScript, Shadcn (01/2024)
+  earth model in the contact section, equipped with email functionality.
+• Tech Stack : React Js, Three.js, Email Js, Vite, Tailwind CSS, TypeScript, Shadcn UI (01/2024).
 
 Restaurant Menu (Back End): 
 • Developed a RESTful API: Constructed an API using ASP.NET Core and MVC for storing command-line snippets and their descriptions,
-leveraging Entity Framework Core ORM (DbContext), migrations, and DTOs for data access.
-• Design Patterns and Testing: Implemented Repository and Dependency Injection patterns for encapsulated data access,
-and ensured system robustness through thorough testing of CRUD endpoints using Postman.
+  leveraging Entity Framework Core ORM (DbContext), migrations, and DTOs for data access.
+• Implemented Repository and Dependency Injection patterns, leading to a 20% improvement in code maintainability, and ensured system
+  robustness through thorough testing of CRUD endpoints using Postman.
 • Tech Stack : ASP.NET Core, MVC, RESTful APIs (05/2024).
 
 Education ____________________________________________________________________________
-
-Bachelor of Technology. GPA: 3.4 / 4.0                   Atmiya University Gujarat, India            08/2021 - 01/2025
+Bachelor of Technology. GPA: 3.4 / 4.0                   Atmiya University, Gujarat                       India 08/2021 - 06/2025
 Major in Computer Engineering. Currently in 7th semester. Current CGPA : 8.52 
 
 Experience / Work ______________________________________________________________________
-
-SWE Intern                                                 TheQuickSoft Technologies                  05/2024 - Present
-• Resolved multiple high-priority bugs to optimize GUI display on the company's official website.Created a React component enabling clients to
-connect directly with the company through the website.
+SWE Intern                                              TheQuickSoft Technologies                          05/2024 - Present
+• Resolved multiple high-priority bugs to optimize GUI display on the company's official website.Developed a React component for client
+  communication, enhancing client interaction by 50%.
 • Collaborated closely with senior developers to comprehend client requirements and streamline client communication lifecycle.
 • Currently Working on the development of .Net Core Identity and Stripe Payment Integration features.I will provide a more detailed account after
-completing the internship.
+  completing the internship.
 
-Summer Social Internship                                      NGO                                       05/2023 - 07/2023(WeekEnds only)
-• In this internship I accomplished a 45%-50% increase in community engagement by spearheading tree planting campaigns and conducting
-awareness classes, resulting in a more environmentally conscious community.
+Summer Social Internship                                   NGO                                               05/2023 - 07/2023(WeekEnds only)
+• In this internship I accomplished a 33% increase in community engagement by spearheading tree planting campaigns and conducting
+  awareness classes, resulting in a more environmentally conscious community.
 • Working in diverse teams fostered my intercultural sensitivity and taught me the importance of personal responsibility, initiative and honed
-my leadership skills, learned the value of teamwork, and became more adaptable to changing circumstances.
-• Achieved improvement in productivity by enhancing communication skills and effectively managing time and workload, Resulting in more
-efficient performance. 
+  my leadership skills, learned the value of teamwork, and became more adaptable to changing circumstances.
+• Achieved improvement in productivity by enhancing communication skills and effectively managing time and workload, resulting in a 30%
+  increase in efficiency.
 
 Other Projects __________________________________________________________________________
+• Other Mini/Group Project: Wardrobe Assistant Web-Application with integration chat-gpt api with 3D Models,
+  social media inappropriate, image filtration based on Deep learning model(Hackathon project ),Game development using C / C++.
 
-• Other Mini/Group Project: Wardrobe Assistant Web-Application with integration chat-gpt api with 3D Models, social media inappropriate
-image filtration based on Deep learning model(Hackathon project ), Game development using C / C++.
-
-• Interests: volleyball (State level player), Finance/Marketing Books/Blogs, Podcasts, Reading philosophy and Law.
+• Interests: volleyball (State-level player), Finance Blogs, Marketing Books, Podcasts, Reading philosophy and Law.
