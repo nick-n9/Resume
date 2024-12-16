@@ -1,11 +1,11 @@
                                                          Nikhil Nimavat
                                           nics.nimavat@gmail.com |  7228833221 
 Skills_______________________________________________________________________________
-• Programing languages: C# ASP.NET Core, Javascript, Typescript, C/C++, HTML, Css/Bootstrap/Tailwind
-• Frameworks: ReactJs, jquery, ASP.NET
-• Database: SQL server, AppWrite DB, Firebase
+• Programming languages: C#, JavaScript, TypeScript, HTML, CSS
+• Frameworks: ASP.NET Core, React, jQuery, Bootstrap, Tailwind
+• Database: SQL Server, Appwrite DB, Firebase
 • Version Control Tools: Git, GitHub, AWS CodeCommit
-• Other: Docker, Postman, Cloud Computing, Data Structures, OOP | English, Hindi, Gujarati– All professional proficiency or above
+• Other: Docker, Postman, Cloud Computing, Data Structures, OOP | English, Hindi - Professional proficiency or above
 • Interested Position: Frontend, Backend, Full-Stack
 
 Projects _____________________________________________________________________________
@@ -16,6 +16,13 @@ Social Media CalGram (Front End):
   support for all file extensions in post creation, and a personalized Profile page. All these are wrapped in a mobile-responsive design for
   a native app-like experience.
 • Tech Stack : React Js, Appwrite, TypeScript, Shadcn UI (06/2023).
+
+Stripe Web Application (Back End): 
+• Developed the back end of an e-commerce platform for purchasing sports attire, integrating Stripe Web API to enable seamless, secure
+ payment processing with authentication and authorization via .NET Core Identity.
+• Implemented Entity Framework Core for efficient CRUD operations, utilizing the Repository Pattern and N-Layered Architecture for handling
+ transactions, order management, and user authentication, optimizing query performance by 25%.
+• Tech Stack: ASP.NET Core, Stripe Web API, .NET Core Identity, RESTful APIs, C#, SQL Server
 
 Developer 3-D Portfolio: 
 • The platform is designed with customizable 3D desktop models leading to a 50% increase in user engagement during testing phases.It employs
@@ -32,16 +39,17 @@ Restaurant Menu (Back End):
 • Tech Stack : ASP.NET Core, MVC, RESTful APIs (05/2024).
 
 Education ____________________________________________________________________________
-Bachelor of Technology. GPA: 3.4 / 4.0                   Atmiya University, Gujarat                       India 08/2021 - 06/2025
+Bachelor of Technology. GPA: 3.4 / 4.0                   Atmiya University, Gujarat                       India 08/2021 - 08/2025
 Major in Computer Engineering. Currently in 7th semester. Current CGPA : 8.52 
 
 Experience / Work ______________________________________________________________________
 SWE Intern                                              DynoTree Technologies                          05/2024 - Present
-• Resolved multiple high-priority bugs to optimize GUI display on the company's official website.Developed a React component for client
-  communication, enhancing client interaction by 50%.
-• Collaborated closely with senior developers to comprehend client requirements and streamline client communication lifecycle.
-• Currently Working on the development of .Net Core Identity and Stripe Payment Integration features.I will provide a more detailed account after
-  completing the internship.
+• Implemented .NET Core APIs, integrating them with cloud platforms like Google Cloud and AWS for deployment and maintenance.
+ Also engineered various .NET Core features to optimize application performance and functionality.
+• Resolved multiple high-priority bugs to optimize GUI display on the company's official website. Developed a React component for client
+ communication, enhancing client interaction by 50%.
+• Developing and maintaining web applications using React.js and other related technologies. Participating in code reviews and providing
+ constructive feedback to other developers.
 
 Summer Social Internship                                   NGO                                               05/2023 - 07/2023(WeekEnds only)
 • In this internship I accomplished a 33% increase in community engagement by spearheading tree planting campaigns and conducting
